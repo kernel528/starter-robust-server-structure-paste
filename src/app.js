@@ -1,7 +1,6 @@
 const express = require("express");
 const app = express();
 
-
 // TODO: Follow instructions in the checkpoint to implement ths API.
 
 // Not found handler
